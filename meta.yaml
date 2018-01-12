@@ -1,0 +1,22 @@
+package:
+  name: keywordtool-scraper
+  version: "0.0.2"
+
+source:
+  git_rev: v0.0.1
+  git_url: https://github.com/quantum-programmer/keywordtool-scraper.git
+
+requirements:
+  build:
+    - python
+    - setuptools
+  run:
+    - python
+
+about:
+  home: https://github.com/quantum-programmer/keywordtool-scraper
+  license: MIT License
+  license_file: LICENSE
+
+build:
+  script: python setup.py install --single-version-externally-managed --record=record.txt
