@@ -15,6 +15,7 @@ requirements:
     - lxml
     - phantomjs
     - selenium
+    - libiconv
 
 about:
   home: https://github.com/quantum-programmer/keywordtool-scraper
