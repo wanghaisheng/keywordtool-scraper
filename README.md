@@ -49,8 +49,7 @@ for s in kt.sources:
 
 kt.timeout = 10
 kt.source = 'bing'
-kt.search('florida man arrested')
-arrested_keywords = kt.parse()
+arrested_keywords = kt.get_keywords('florida man arrested')
 print '\nHeadlines from Florida include "%s"' % arrested_keywords[0].upper()
 
 book_keywords = kt.get_keywords('good books', source='amazon')
