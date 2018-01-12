@@ -1,9 +1,9 @@
 package:
   name: keywordtool-scraper
-  version: "0.0.2"
+  version: "0.0.3"
 
 source:
-  git_rev: v0.0.1
+  git_rev: v0.0.3
   git_url: https://github.com/quantum-programmer/keywordtool-scraper.git
 
 requirements:
@@ -12,6 +12,9 @@ requirements:
     - setuptools
   run:
     - python
+    - lxml
+    - phantomjs
+    - selenium
 
 about:
   home: https://github.com/quantum-programmer/keywordtool-scraper
