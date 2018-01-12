@@ -1,0 +1,26 @@
+{
+  "info": {
+    "subdir": "linux-64"
+  },
+  "packages": {
+    "keywordtool-scraper-0.0.4-py27_0.tar.bz2": {
+      "build": "py27_0",
+      "build_number": 0,
+      "depends": [
+        "libiconv",
+        "lxml",
+        "phantomjs",
+        "python >=2.7,<2.8.0a0",
+        "selenium"
+      ],
+      "license": "MIT License",
+      "md5": "eed75bb94b3db848ae5069556b404b0b",
+      "name": "keywordtool-scraper",
+      "sha256": "41091ac348c66df8234090bb5597b6e4586ecaf79a18d36336bf6ae26c623700",
+      "size": 15110,
+      "subdir": "linux-64",
+      "timestamp": 1515739415903,
+      "version": "0.0.4"
+    }
+  }
+}

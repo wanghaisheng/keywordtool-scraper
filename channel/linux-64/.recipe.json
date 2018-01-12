@@ -1,0 +1,48 @@
+{
+  "keywordtool-scraper-0.0.4-py27_0.tar.bz2": {
+    "about": {
+      "home": "https://github.com/quantum-programmer/keywordtool-scraper", 
+      "license": "MIT License", 
+      "license_file": "LICENSE"
+    }, 
+    "build": {
+      "script": "python setup.py install --single-version-externally-managed --record=record.txt", 
+      "string": "py27_0"
+    }, 
+    "extra": {
+      "copy_test_source_files": true, 
+      "final": true
+    }, 
+    "package": {
+      "name": "keywordtool-scraper", 
+      "version": "0.0.4"
+    }, 
+    "requirements": {
+      "build": [
+        "ca-certificates 2017.11.5 0", 
+        "ncurses 5.9 10", 
+        "tk 8.6.7 0", 
+        "zlib 1.2.11 0", 
+        "openssl 1.0.2n 0", 
+        "readline 7.0 0", 
+        "sqlite 3.20.1 2", 
+        "python 2.7.14 4", 
+        "certifi 2017.11.5 py27_0", 
+        "setuptools 38.4.0 py27_0", 
+        "wheel 0.30.0 py27_2", 
+        "pip 9.0.1 py27_1"
+      ], 
+      "run": [
+        "python >=2.7,<2.8.0a0", 
+        "libiconv", 
+        "lxml", 
+        "selenium", 
+        "phantomjs"
+      ]
+    }, 
+    "source": {
+      "git_rev": "v0.0.4", 
+      "git_url": "https://github.com/quantum-programmer/keywordtool-scraper.git"
+    }
+  }
+}

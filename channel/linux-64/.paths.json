@@ -1,0 +1,43 @@
+{
+  "keywordtool-scraper-0.0.4-py27_0.tar.bz2": {
+    "paths": [
+      {
+        "_path": "lib/python2.7/site-packages/Keywordtool_Scraper-0.0.4-py2.7.egg-info/PKG-INFO", 
+        "path_type": "hardlink", 
+        "sha256": "56aad7762840f13e0c5ea31b17de9708bf148edd7e78e145f998f0ae45f98775", 
+        "size_in_bytes": 227
+      }, 
+      {
+        "_path": "lib/python2.7/site-packages/Keywordtool_Scraper-0.0.4-py2.7.egg-info/SOURCES.txt", 
+        "path_type": "hardlink", 
+        "sha256": "33804ec59b3f6ccc254218383a1a3c4061c33a61ea1b92e93c84e5b27ac5c163", 
+        "size_in_bytes": 214
+      }, 
+      {
+        "_path": "lib/python2.7/site-packages/Keywordtool_Scraper-0.0.4-py2.7.egg-info/dependency_links.txt", 
+        "path_type": "hardlink", 
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b", 
+        "size_in_bytes": 1
+      }, 
+      {
+        "_path": "lib/python2.7/site-packages/Keywordtool_Scraper-0.0.4-py2.7.egg-info/top_level.txt", 
+        "path_type": "hardlink", 
+        "sha256": "d4164fac8e4e5ecd392f4b8b1b94c78154583862e278f40891aab1b0e694587a", 
+        "size_in_bytes": 12
+      }, 
+      {
+        "_path": "lib/python2.7/site-packages/keywordtool/__init__.py", 
+        "path_type": "hardlink", 
+        "sha256": "24eeec134b7ecbfcea1324f0f0154fa281972f61a71f27997610f0558026f026", 
+        "size_in_bytes": 2338
+      }, 
+      {
+        "_path": "lib/python2.7/site-packages/keywordtool/__init__.pyc", 
+        "path_type": "hardlink", 
+        "sha256": "43c1d308ddd928f917a5b0bded640dc0eb6e46657401b217a3bccd419ef48199", 
+        "size_in_bytes": 3808
+      }
+    ], 
+    "paths_version": 1
+  }
+}
